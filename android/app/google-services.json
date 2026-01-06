@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "402869716638",
+        "project_id": "adsbarter-e06ec",
+        "storage_bucket": "adsbarter-e06ec.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:402869716638:android:0c490bd379642b1eb51d8f",
+                "android_client_info": {
+                    "package_name": "com.influencernative"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBQNLhBTvaw0-Mc6gYs0ymVzNEJLEdIi3s"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
